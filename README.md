@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) présente circuits, contraintes, lookups, engagements, transcript et limites de sécurité.
+
 # halo2
 
 ## Usage
